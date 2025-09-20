@@ -41,6 +41,10 @@ libboost-python-dev libboost-filesystem-dev zlib1g-dev
 make
 sudo make install
 ```
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/aneeshbankapur/Tools-Installation-for-RISC-V-SOC-VSD/blob/bea951ec67cb013ef7c51d66a45b9a4f9ec0dcdb/Yosys%20installation.png">
+</p>
 
 ---
 
@@ -51,6 +55,10 @@ sudo make install
 sudo apt update
 sudo apt install iverilog
 ```
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/aneeshbankapur/Tools-Installation-for-RISC-V-SOC-VSD/blob/d2533a0b456620b1051294bc31ecf22a87a3cc1f/iverilog%20installation.png">
+</p>
 
 ---
 
@@ -61,7 +69,10 @@ sudo apt install iverilog
 sudo apt update
 sudo apt install gtkwave
 ```
-
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/aneeshbankapur/Tools-Installation-for-RISC-V-SOC-VSD/blob/d2533a0b456620b1051294bc31ecf22a87a3cc1f/gtkwave%20installation.png">
+</p>
 ---
 
 ### 4. Ngspice  
@@ -71,7 +82,10 @@ sudo apt install gtkwave
 sudo apt update
 sudo apt install ngspice
 ```
-
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/aneeshbankapur/Tools-Installation-for-RISC-V-SOC-VSD/blob/d2533a0b456620b1051294bc31ecf22a87a3cc1f/ngspice%20installation.png">
+</p>
 ---
 
 ### 5. Magic VLSI  
@@ -97,8 +111,12 @@ cd magic
 
 # Build Magic
 make
+```
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/aneeshbankapur/Tools-Installation-for-RISC-V-SOC-VSD/blob/d2533a0b456620b1051294bc31ecf22a87a3cc1f/magic%20installation.png">
+</p>
 
-# Install system-wide
-sudo make install
+
 
 
