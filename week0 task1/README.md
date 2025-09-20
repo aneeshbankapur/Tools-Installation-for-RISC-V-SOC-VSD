@@ -7,8 +7,6 @@ It shows how a high-level concept is transformed into a **physical chip ready fo
   <img src="https://github.com/aneeshbankapur/Tools-Installation-for-RISC-V-SOC-VSD/blob/f7398a4cb9915132c9f4624ea548d33e3d33c08f/week0%20task1/SOC%20design%20flow.png">
 </p>
 
-<div align="center">
-
 ---
 ## 📌 Stage 1: Chip Modelling & Specification (O1)
 
